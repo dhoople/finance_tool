@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+
+body {
+    background-color: lightgray;
+  }
+
+#smiley {
+    width: 50%;
+    height: auto;
+}
